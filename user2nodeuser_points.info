@@ -1,0 +1,6 @@
+; $Id$
+name = "User to Node Author Points"
+description = "Send points to author of a node."
+core = 6.x
+dependencies[] = userpoints
+dependencies[] = user2userpoints
